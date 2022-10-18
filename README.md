@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariangelicaCarvallo
 - 👀 I’m interested in learning languages and web development frameworks.
 - 🌱 I’m currently enjoying creating innovative projects.
-- 💞️ Soy proactive, resilient, comunicative and dynamic.
+- 💞️ I'm proactive, resilient, comunicative and dynamic.
 - 📫 To contact me you can write to: marca1325@gmail.com.
 
 <!---
